@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[openDocument](https://joseampacheco.github.io/openDocument/).
+[openDocument](https://joseampacheco.github.io/NotasTecnica/openDocument.md/)
 ```
     Esta função tem como objetivo abrir uma nova aba no browser com uma ou mais tabelas
     conforme a configuração de cada tabela passada como paraâmetro na função
