@@ -26,13 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### For more details see     
+[openDocument](https://joseampacheco.github.io/openDocument/).
 ```
-### openDocument
     Esta função tem como objetivo abrir uma nova aba no browser com uma ou mais tabelas
     conforme a configuração de cada tabela passada como paraâmetro na função
 ```    
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
