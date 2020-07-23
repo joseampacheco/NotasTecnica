@@ -1,4 +1,4 @@
-## openDciument
+## openDocument
 
 Abre uma nova aba no navegador gerando uma mais tabelas conforme a(s) configuração(ões) passada como parâmetro(s) na função
 
