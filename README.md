@@ -26,8 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### For more details see     [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+### For more details see     
+```
+### openDocument
+    Esta função tem como objetivo abrir uma nova aba no browser com uma ou mais tabelas
+    conforme a configuração de cada tabela passada como paraâmetro na função
+    
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joseampacheco/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
